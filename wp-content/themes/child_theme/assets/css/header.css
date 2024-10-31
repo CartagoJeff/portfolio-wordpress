@@ -1,0 +1,14 @@
+.site-branding{
+	display: none;
+}
+
+#site-navigation {
+	display: flex !important;
+	justify-content: space-around;
+}
+
+#primary-menu, #secondary-menu{
+    display: flex;
+    gap: 20px;
+}
+

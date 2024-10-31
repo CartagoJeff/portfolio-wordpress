@@ -1,0 +1,10 @@
+#menu-footer-menu {
+    padding: 0 !important;
+    margin: 0  !important;
+    display: flex  !important;
+    gap: 20px  !important;
+}
+
+#menu-footer-menu li {
+	list-style-type: none  !important;
+}
